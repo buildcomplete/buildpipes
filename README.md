@@ -6,4 +6,4 @@ Build the linux pipeline
 cd sdlopencvopengl/linux
 docker build -t sdlglcv_lcompiler .
 ```
-and run the test, see [test/readme.md](test/readme.md)
+and run the test, see [sdlopencvopengl/test/readme.md](sdlopencvopengl/test/readme.md)
